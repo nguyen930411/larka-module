@@ -34,6 +34,6 @@ class MigrateModuleCommand extends ConsoleCommand
             "--path" => "/database/migrations/modules"
         ]);
 
-        echo "Todo print message\n";
+        echo "Migrating modules successful\n";
     }
 }
